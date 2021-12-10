@@ -20,7 +20,7 @@ export const links = [
 		category: 'Open Source',
 		description: 'Utility-fist css framework',
 		id: '6a9122b2-363b-4a4f-ad26-d6c55b51baed',
-		imageUrl: 'https://tailwindcss.com/_next/static/media/twitter-large-card.85c0ff9e455da585949ff0aa50981857.jpg',
+		imageUrl: 'https://laravelnews.imgix.net/images/tailwindcss-1633184775.jpg?ixlib=php-3.3.1',
 		title: 'TailwindCSS',
 		url: 'https://tailwindcss.com'
 	},
